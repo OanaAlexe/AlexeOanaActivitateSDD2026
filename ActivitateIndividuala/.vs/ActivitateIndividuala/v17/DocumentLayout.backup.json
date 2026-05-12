@@ -1,0 +1,65 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\an2 recuperare\\SDD\\AlexeOanaActivitateStructuriDeDate2026\\ActivitateIndividuala\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D065F041-2DB7-46B4-A078-2D2AF2848571}|ActivitateIndividuala\\ActivitateIndividuala.vcxproj|D:\\an2 recuperare\\SDD\\AlexeOanaActivitateStructuriDeDate2026\\ActivitateIndividuala\\ActivitateIndividuala\\ActivitateIndviduala1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D065F041-2DB7-46B4-A078-2D2AF2848571}|ActivitateIndividuala\\ActivitateIndividuala.vcxproj|solutionrelative:ActivitateIndividuala\\ActivitateIndviduala1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|D:\\an2 recuperare\\SDD\\masini.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ActivitateIndviduala1.c",
+              "DocumentMoniker": "D:\\an2 recuperare\\SDD\\AlexeOanaActivitateStructuriDeDate2026\\ActivitateIndividuala\\ActivitateIndividuala\\ActivitateIndviduala1.c",
+              "RelativeDocumentMoniker": "ActivitateIndividuala\\ActivitateIndviduala1.c",
+              "ToolTip": "D:\\an2 recuperare\\SDD\\AlexeOanaActivitateStructuriDeDate2026\\ActivitateIndividuala\\ActivitateIndividuala\\ActivitateIndviduala1.c",
+              "RelativeToolTip": "ActivitateIndividuala\\ActivitateIndviduala1.c",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAuwGIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-04-20T16:11:24.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "masini.txt",
+              "DocumentMoniker": "D:\\an2 recuperare\\SDD\\masini.txt",
+              "RelativeDocumentMoniker": "..\\..\\masini.txt",
+              "ToolTip": "D:\\an2 recuperare\\SDD\\masini.txt",
+              "RelativeToolTip": "..\\..\\masini.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-04-20T16:20:09.404Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
