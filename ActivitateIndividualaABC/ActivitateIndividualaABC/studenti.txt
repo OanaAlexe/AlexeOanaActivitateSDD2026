@@ -1,0 +1,5 @@
+1,20,9.50,Popescu Ion,Informatica,A
+2,21,8.75,Ionescu Maria,Cibernetica,B
+3,22,7.20,Georgescu Dan,Constructii,C
+4,19,9.90,Stan Andreea,Drept,D
+5,23,6.50,Dumitru Cristian,Medicina,E

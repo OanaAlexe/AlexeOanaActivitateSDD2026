@@ -1,0 +1,4 @@
+﻿  ABC.c
+D:\an2 recuperare\SDD\AlexeOanaActivitateSDD2026\AlexeOanaActivitateSDD2026\ActivitateIndividualaABC\ActivitateIndividualaABC\ABC.c(33,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\an2 recuperare\SDD\AlexeOanaActivitateSDD2026\AlexeOanaActivitateSDD2026\ActivitateIndividualaABC\ActivitateIndividualaABC\ABC.c(154,1): warning C4715: 'calculeazaInaltimeArbore': not all control paths return a value
+  ActivitateIndividualaABC.vcxproj -> D:\an2 recuperare\SDD\AlexeOanaActivitateSDD2026\AlexeOanaActivitateSDD2026\ActivitateIndividualaABC\x64\Debug\ActivitateIndividualaABC.exe
